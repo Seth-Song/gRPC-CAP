@@ -1,0 +1,12 @@
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\bin\Debug\net6.0\gRPC.deps.json
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\bin\Debug\net6.0\gRPC.dll
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\bin\Debug\net6.0\gRPC.pdb
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.csproj.AssemblyReference.cache
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.AssemblyInfoInputs.cache
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.AssemblyInfo.cs
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.csproj.CoreCompileInputs.cache
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.dll
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\refint\gRPC.dll
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\gRPC.pdb
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\ClassLibrary1\obj\Debug\net6.0\ref\gRPC.dll

@@ -1,0 +1,11 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Demo.Grpc.Protos";
+//引用
+import "Helloworld/HelloWorldMsg.proto";
+
+//定义gRPC method
+service GHelloWorld {
+	rpc GetHelloWorld (HelloWorldMsg) returns (HelloWorldReturnMsg);
+
+} 

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.44.0" />
+    <PackageReference Include="Grpc.Core" Version="2.45.0" />
+  </ItemGroup>
+	<ItemGroup>
+		<None Remove="HelloWorld\HelloWorld.proto" />
+		<None Remove="HelloWorld\HelloWorldMsg.proto" />
+  </ItemGroup>
+  <ItemGroup>
+		<Protobuf Include="HelloWorld\HelloWorld.proto" />
+	    <Protobuf Include="HelloWorld\HelloWorldMsg.proto" />
+  </ItemGroup>
+</Project>

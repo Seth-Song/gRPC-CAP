@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "Demo.Grpc.Protos";
+
+//定义gRPC parameter
+
+message HelloWorldMsg {
+     string id=1;
+}
+
+
+message HelloWorldReturnMsg {
+     string context = 1;
+     bool status = 2;
+}

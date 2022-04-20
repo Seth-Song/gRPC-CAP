@@ -1,0 +1,12 @@
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\bin\Debug\net6.0\CAP_RabbitMQ.deps.json
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\bin\Debug\net6.0\CAP_RabbitMQ.dll
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\bin\Debug\net6.0\CAP_RabbitMQ.pdb
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.AssemblyInfo.cs
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.dll
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\refint\CAP_RabbitMQ.dll
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\CAP_RabbitMQ.pdb
+C:\Users\Seth.Song\Desktop\gRPC-HelloWorld\CAP_RabbitMQ\obj\Debug\net6.0\ref\CAP_RabbitMQ.dll
